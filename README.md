@@ -10,6 +10,7 @@ Join my community or contact me in any one of the medias below!
 ![Instagram Badge](https://img.shields.io/badge/Aurum-magenta?logo=Instagram&logoColor=black&link=instagram.com%2Faurumplayz%2F)
 ![Discord Badge](https://img.shields.io/badge/Aurum's_Gang-darkblue?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.gg%2FezxTcQgzcz)
 [![Youtube Badge](https://img.shields.io/badge/-Aurum-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/aurumplayz)](https://www.youtube.com/c/aurumplayz)
+[Threads Badge](https://img.shields.io/badge/Aurum-purple?logo=threads&logoColor=black&link=https%3A%2F%2Fwww.threads.net%2F%40thenuka_herathh)
 [![Gmail Badge](https://img.shields.io/badge/-itzaurum.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itzaurum.dev@gmail.com)](mailto:itzaurum.dev@gmail.com)
 ![DeviantArt Badge](https://img.shields.io/badge/Aurum-darkgreen?logo=deviantart&logoColor=white&link=https%3A%2F%2Fwww.deviantart.com%2Fherathmlg)
 ![Reddit Badge](https://img.shields.io/badge/Aurum-orange?logo=reddit&logoColor=white&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FHerathMLG)
