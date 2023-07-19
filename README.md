@@ -4,7 +4,7 @@ I'm a student who enjoys graphic design, coding and producing!
 I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-AurumPlayz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aurumplayz/)](https://instagram.com/aurumplayz)
-[![Discord Badge](https://img.shields.io/badge/-Aurum's-Gang-darked?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/ezxTcQgzcz)](https://discord.gg/ezxTcQgzcz)
+[![Discord Badge](https://img.shields.io/badge/-Aurum's-Gang-darkred?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/ezxTcQgzcz)](https://discord.gg/ezxTcQgzcz)
 [![Youtube Badge](https://img.shields.io/badge/-Aurum-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/aurumplayz)](https://www.youtube.com/c/aurumplayz)
 [![Gmail Badge](https://img.shields.io/badge/-itzaurum.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itzaurum.dev@gmail.com)](mailto:itzaurum.dev@gmail.com)
 
