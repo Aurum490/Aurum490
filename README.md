@@ -4,9 +4,10 @@ I'm a student who enjoys graphic design, coding and producing!
 I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-AurumPlayz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aurumplayz/)](https://instagram.com/aurumplayz)
-[![Discord Badge](https://img.shields.io/badge/Aurum's_Gang-black?logo=discord&link=https%3A%2F%2Fdiscord.gg%2FezxTcQgzcz)
+![Discord Badge](https://img.shields.io/badge/Aurum's_Gang-darkblue?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.gg%2FezxTcQgzcz)
 [![Youtube Badge](https://img.shields.io/badge/-Aurum-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/aurumplayz)](https://www.youtube.com/c/aurumplayz)
 [![Gmail Badge](https://img.shields.io/badge/-itzaurum.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itzaurum.dev@gmail.com)](mailto:itzaurum.dev@gmail.com)
+![DeviantArt Badge](https://img.shields.io/badge/Aurum-darkgreen?logo=deviantart&logoColor=white&link=https%3A%2F%2Fwww.deviantart.com%2Fherathmlg)
 
 Don't hesitate to message me about anything!
 
@@ -18,8 +19,7 @@ Some of my far future goals are to learn front-end web development and to be abl
 
 Join my community or contact me in any one of the medias below!
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ezxTcQgzcz)
-[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/herathmlg)
+
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/HerathMLG)
 
 ![Youtube Views](https://img.shields.io/youtube/channel/views/UC6OsXAfG2tlXp3HNsX7xSFg)
