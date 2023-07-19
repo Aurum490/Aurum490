@@ -20,4 +20,5 @@ Join my community or contact me in any one of the medias below!
 
 ![Youtube Views](https://img.shields.io/youtube/channel/views/UC6OsXAfG2tlXp3HNsX7xSFg)
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aurum490&show_icons=true&theme=merko" />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aurum490&count_private=true&show_icons=true&include_all_commits=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
