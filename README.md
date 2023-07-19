@@ -3,9 +3,9 @@
 I'm a student who enjoys graphic design, coding and producing!
 I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/aurumplayz)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/aurumplayz)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:itzaurum.dev@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-AurumPlayz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/aurumplayz)
+[![Youtube Badge](https://img.shields.io/badge/-Aurum-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/aurumplayz)
+[![Gmail Badge](https://img.shields.io/badge/-itzaurum.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:itzaurum.dev@gmail.com)
 
 [JaxCore](https://github.com/Jax-Core/JaxCore) is my passion project, which originates from my desire for good-looking customizable UI on Windows, which is very lacking to this day, even with Windows 11. Also check out the [website](https://jaxcore.app/)!
 
