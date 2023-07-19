@@ -13,6 +13,7 @@ Join my community or contact me in any one of the medias below!
 [![Gmail Badge](https://img.shields.io/badge/-itzaurum.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itzaurum.dev@gmail.com)](mailto:itzaurum.dev@gmail.com)
 ![DeviantArt Badge](https://img.shields.io/badge/Aurum-darkgreen?logo=deviantart&logoColor=white&link=https%3A%2F%2Fwww.deviantart.com%2Fherathmlg)
 ![Reddit Badge](https://img.shields.io/badge/Aurum-orange?logo=reddit&logoColor=white&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FHerathMLG)
+![Hyperfollow Badge](https://img.shields.io/badge/AurumHyperfollow-forestgreen?logo=linktree&logoColor=black&link=https%3A%2F%2Fhyperfollow.com%2Fitzaurum)
 
 Don't hesitate to message me about anything!
 Some of my far future goals are to learn front-end web development and to be able to make JaxCore standalone!
