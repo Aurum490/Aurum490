@@ -27,4 +27,4 @@ Join my community or contact me in any one of the medias below!
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aurum490)
-![Youtube Views](https://img.shields.io/youtube/channel/views/UC6OsXAfG2tlXp3HNsX7xSFg)
+![Youtube Views](https://img.shields.io/youtube/channel/views/UC6OsXAfG2tlXp3HNsX7xSFg?style=plastic&logo=Youtube&logoColor=red)
