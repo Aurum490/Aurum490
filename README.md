@@ -18,9 +18,10 @@ Join my community or contact me in any one of the medias below!
 Don't hesitate to message me about anything!
 Some of my far future goals are to learn front-end web development and to be able to make JaxCore standalone!
 
+## My Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aurum490&count_private=true&show_icons=true&include_all_commits=true&theme=merko&bg_color=00000000&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact&theme=merko&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact&theme=merko&bg_color=00000000&hide_border=true)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aurum490)
