@@ -7,9 +7,7 @@ I am a tech enthusiast & an open-source advocate. Always open to collaborating o
 [![Youtube Badge](https://img.shields.io/badge/-Aurum-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/aurumplayz)
 [![Gmail Badge](https://img.shields.io/badge/-itzaurum.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:itzaurum.dev@gmail.com)
 
-[JaxCore](https://github.com/Jax-Core/JaxCore) is my passion project, which originates from my desire for good-looking customizable UI on Windows, which is very lacking to this day, even with Windows 11. Also check out the [website](https://jaxcore.app/)!
-
-The support and appreciation I've received along the way motivate me to keep going and improve the user experience. So don't hesitate to message me about anything!
+Don't hesitate to message me about anything!
 
 Some of my far future goals are to learn front-end web development and to be able to make JaxCore standalone!
 
