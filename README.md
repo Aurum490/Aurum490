@@ -1,6 +1,6 @@
 ### 👋 Hi , I'm Aurum!
 
-I'm a student who enjoys graphic design and coding!
+I'm a student who enjoys graphic design, coding and producing!
 
 [JaxCore](https://github.com/Jax-Core/JaxCore) is my passion project, which originates from my desire for good-looking customizable UI on Windows, which is very lacking to this day, even with Windows 11. Also check out the [website](https://jaxcore.app/)!
 
@@ -18,4 +18,4 @@ You can find releases in any one of the medias below!
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/jaxoriginals)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/EnhancedJax)
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnhancedJax&show_icons=true&hide_border=true&theme=github_dark" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aurum490&show_icons=true&theme=radical" />
