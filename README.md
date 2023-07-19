@@ -18,6 +18,6 @@ Join my community or contact me in any one of the medias below!
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/herathmlg)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/HerathMLG)
 
-[![Youtube Views](https://img.shields.io/youtube/channel/views/UC6OsXAfG2tlXp3HNsX7xSFg)
+![Youtube Views](https://img.shields.io/youtube/channel/views/UC6OsXAfG2tlXp3HNsX7xSFg)
 
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aurum490&show_icons=true&theme=merko" />
