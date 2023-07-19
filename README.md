@@ -1,6 +1,11 @@
-### 👋 Hi , I'm Aurum!
+### Hey, Im Aurum! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I'm a student who enjoys graphic design, coding and producing!
+I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/aurumplayz)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/aurumplayz)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:itzaurum.dev@gmail.com)
 
 [JaxCore](https://github.com/Jax-Core/JaxCore) is my passion project, which originates from my desire for good-looking customizable UI on Windows, which is very lacking to this day, even with Windows 11. Also check out the [website](https://jaxcore.app/)!
 
@@ -22,3 +27,6 @@ Join my community or contact me in any one of the medias below!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aurum490&count_private=true&show_icons=true&include_all_commits=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact&theme=merko)
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aurum490)
