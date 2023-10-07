@@ -1,5 +1,6 @@
 ### Hey, Im Aurum! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 <img style="text-align: center" src="https://discord.c99.nl/widget/theme-3/302028587031330819.png">
+
 I'm a student who enjoys graphic design, coding and producing!
 I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
 **Join my discord server** for development and release updates!
