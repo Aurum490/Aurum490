@@ -5,6 +5,7 @@ I am a tech enthusiast & an open-source advocate. Always open to collaborating o
 **Join my discord server** for development and release updates!
 
 <img src="https://github-profile-trophy.vercel.app/?username=s3ansh33p&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="s3ansh33p" />
+
 ## 🔗 Connect with me
 
 Join my community or contact me in any one of the medias below!
