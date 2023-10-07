@@ -1,4 +1,6 @@
 ### Hey, Im Aurum! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<img style="text-align: center" src="https://discord.c99.nl/widget/theme-3/302028587031330819.png">
+<img src="https://github-profile-trophy.vercel.app/?username=s3ansh33p&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="s3ansh33p" />
 
 I'm a student who enjoys graphic design, coding and producing!
 I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
