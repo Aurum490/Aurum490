@@ -4,7 +4,7 @@
 I'm a student who enjoys graphic design, coding and producing!
 I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
 **Join my discord server** for development and release updates!
-https://www.aurum490.github.io
+https://aurum490.github.io
 
 <img src="https://github-profile-trophy.vercel.app/?username=s3ansh33p&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="s3ansh33p" />
 
